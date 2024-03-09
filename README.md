@@ -1,4 +1,8 @@
-# my-project
+// Name: Abeer Abdullah Saleh
+// ID: 20230700
+// game2
+// section 3,4
+
 
 def CheckWin(Resultlist):
     if(len(Resultlist)== 3):
